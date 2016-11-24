@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="8px" height="14px" viewBox="0 0 8 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
     <title>right-arrow-ico</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="乐派派" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="确认订单2" transform="translate(-293.000000, -94.000000)" fill="#C7C7C7">
+        <g id="订单信息" transform="translate(-289.000000, -93.000000)">
             <g id="address" transform="translate(5.000000, 61.000000)">
-                <g id="right-arrow-ico" transform="translate(284.000000, 32.000000)">
-                    <path d="M9.3125,8 L4.09375,2.5625 C3.9270825,2.3958325 3.9270825,2.2291675 4.09375,2.0625 L5.03125,1.125 C5.21875094,0.9583325 5.38541594,0.947915937 5.53125,1.09375 L11.90625,7.75 C11.9687503,7.81250031 12,7.89583281 12,8 C12,8.10416719 11.9687503,8.18749969 11.90625,8.25 L5.53125,14.90625 C5.3645825,15.0729175 5.1979175,15.0729175 5.03125,14.90625 L4.09375,13.9375 C3.9270825,13.7708325 3.9270825,13.6041675 4.09375,13.4375 L9.3125,8 Z" id="ion-chevron-right---Ionicons"></path>
-                </g>
+                <g id="right-arrow-ico" transform="translate(284.000000, 32.000000)"></g>
             </g>
         </g>
     </g>
